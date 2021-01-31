@@ -1,4 +1,15 @@
-This is a calculator I make for the Odin Project.<br>
-I'm using HMTL, CSS, & Javascript.<br>
-<br>
-Experience it here https://septianleonardo.github.io/Calculator/
+# Calculator
+A simple calculator made with HMTL, CSS, & Vanila Javascript.
+
+## Preview
+
+![calculator-img](images/preview1.PNG)
+
+## Installation
+
+```bash
+Download files and run index.html
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
