@@ -1,5 +1,5 @@
 # Calculator
-A simple calculator made with HMTL, CSS, & Vanila Javascript.
+A simple calculator made with HTML, CSS, & Vanila Javascript.
 
 ## Preview
 
